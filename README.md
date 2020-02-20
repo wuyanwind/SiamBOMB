@@ -1,5 +1,6 @@
 # SiamBOMB
-This is just a preview version of SiamBOMB, please wait our paper to be accepted.
+This repo is just a preview version of SiamBOMB. \
+For release version, please wait our paper to be accepted.
 
 ## Introduction
 <p align="center"><img src="README.img/interface1.png" width="300"></p>
@@ -7,16 +8,33 @@ This is just a preview version of SiamBOMB, please wait our paper to be accepted
 
 ## Setup
 ### 1. Configure environments
-```Shell
-
-```
+* Linux (Ubuntu 18.04) or Windows (10)
+* GPU (at least have 4 GB memory)
+* CUDA 10.1 (with cudnn)
+* Anaconda 4.8+
 ### 2. Install dependencies
-```Shell
+```Python
+# create anaconda env
+conda create -n SiamBOMB python=3.6
+conda activate SiamBOMB
 
+# install the pytorch
+conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
+
+# install the pyqt5
+pip install pyqt5-tools
+
+# install other packages
+pip install numpy opencv-python pyyaml yacs tqdm colorama matplotlib cython tensorboardX
+
+# build extensions
+python setup.py build_ext --inplace
 ```
 ### 3. Equip models
+
 ## Demo
 ### 1
+
 
 ## References
 ### Repositories
