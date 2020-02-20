@@ -1,3 +1,5 @@
+# Modified by: JackieZhai on Feb 20 2020. All Rights Reserved.
+
 import sys
 from os import system, path
 from copy import deepcopy
@@ -8,7 +10,7 @@ import cv2
 import torch
 
 from PyQt5.QtWidgets import QApplication, QMainWindow, QFileDialog, QMessageBox
-from fifthMainWin import Ui_MainWindow
+from window_ui import Ui_MainWindow
 from PyQt5.QtGui import QPixmap, QImage
 
 from pysot.core.config import cfg
