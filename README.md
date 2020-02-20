@@ -1,9 +1,10 @@
 # SiamBOMB
 This is just a preview version of SiamBOMB, please wait our paper to be accepted.
+
 ## Introduction
-<p align="center">
-  <img src="README.img/interface1.png" width="300">
-</p>
+<p align="center"><img src="README.img/interface1.png" width="300"></p>
+
+
 ## Setup
 ### 1. Configure environments
 ```Shell
