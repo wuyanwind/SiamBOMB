@@ -42,6 +42,9 @@ You can choose any model from: [Model Zoo](https://github.com/STVIR/pysot/blob/m
 ```Shell
 python window_running.py
 ```
+1. [Top three buttons] Choose one of three loading ways: images, video or webcam.
+2. [B-box setting] Select several bounding for your targets, it can re-select.
+3. [Algorithm processing] Do tracking and segmentation, press [Suspending] if you want to terminate.
 
 ## References
 ### Repositories
