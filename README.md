@@ -3,8 +3,9 @@ This repo is just a preview version of SiamBOMB. \
 This code is released under the [Apache 2.0 license](https://github.com/JackieZhai/SiamBOMB/blob/master/LICENSE).\
 Copyright \(c\) 2020 Institute of Automation, Chinese Academy of Sciences. 
 All rights reserved.
+
 <center>
-  <img src="README.img\affiliation1.png" width="100"/>&emsp;&emsp;&emsp;&emsp;<img src="README.img\affiliation2.png" width="140"/>
+  <img src="README.img\affiliation1.png" width="100"/>&emsp;&emsp;<img src="README.img\affiliation2.png" width="140"/>
 </center>
 
 ## Introduction
