@@ -12,10 +12,11 @@ For release version, please wait our paper to be accepted.
 5. It can do fundamental behavioral analysis and save data.
 ## Setup
 ### 1. Configure environments
-* Linux (Ubuntu 18.04) or Windows (10)
-* GPU (at least have 4 GB memory)
-* CUDA 10.1 (with cudnn)
-* Anaconda 4.8+
+* Linux (Ubuntu 18.04) or Windows (10).
+* GPU (at least have 4 GB memory).
+* CUDA 10.1 (with cudnn).
+* Anaconda 4.8+.
+* Download or `git clone` our code.
 ### 2. Install dependencies
 ```Shell
 # create anaconda env
@@ -37,7 +38,8 @@ python setup.py build_ext --inplace
 ### 3. Equip models
 A simple SiamMask pretrained model: \
 [Google Drive](https://drive.google.com/open?id=1YbPUQVTYw_slAvk_DchvRY-7B6rnSXP9), [Baidu Pan](https://pan.baidu.com/s/1q64A2jPEWmdj264XrfvhBA) (key: jffj) \
-You can choose any model from: [Model Zoo](https://github.com/STVIR/pysot/blob/master/MODEL_ZOO.md) (need to modify codes).
+You need to copy it into `pysot/experiments/siammaske_r50_l3/`.\
+You can also choose other models from: [Model Zoo](https://github.com/STVIR/pysot/blob/master/MODEL_ZOO.md) (need to modify codes).
 ## Demo
 ```Shell
 python window_running.py
