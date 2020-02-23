@@ -6,7 +6,7 @@ All rights reserved.
 <p align="center"><img src="README.img/affiliation.png" width="300"></p>
 
 ## Introduction
-<p align="center"><img src="README.img/interface1.png" width="300"></p>
+<p align="center"><img src="README.img/demo.gif" width="300"></p>
 
 1. This project is based on [PySOT](https://github.com/STVIR/pysot).
 2. We develop it with [PyQt5](https://www.riverbankcomputing.com/software/pyqt/intro).
