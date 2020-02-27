@@ -6,6 +6,8 @@ All rights reserved.
 <p align="center"><img src="README.img/affiliation.png" width="400"></p>
 
 ## Introduction
+Our Demo Video: [https://youtu.be/TTF27pr8-K8](https://youtu.be/TTF27pr8-K8) or [https://www.bilibili.com/video/av92152869](https://www.bilibili.com/video/av92152869)
+
 <p align="center"><img src="README.img/demo.gif" width="300"></p>
 
 1. This project is based on [PySOT](https://github.com/STVIR/pysot).
