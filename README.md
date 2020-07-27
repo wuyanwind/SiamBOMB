@@ -52,6 +52,7 @@ python window_running.py
 1. [Top three buttons] Choose one of three loading ways: images, video or webcam.
 2. [B-box setting] Select several bounding for your targets, it can re-select.
 3. [Algorithm processing] Do tracking and segmentation, press [Suspending] if you want to terminate.
+* Note: As a demo now, it can only fit well for 800*600 image/video stream, and will update later.
 
 ## References
 ### Repositories
