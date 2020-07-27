@@ -6,7 +6,8 @@ All rights reserved.
 <p align="center"><img src="README.img/affiliation.png" width="400"></p>
 
 ## Introduction
-Our Demo Video: [https://youtu.be/x4tjOdrtQ98](https://youtu.be/x4tjOdrtQ98) or [https://www.bilibili.com/video/av92152869](https://www.bilibili.com/video/av92152869)
+Our Demo Video: [https://youtu.be/x4tjOdrtQ98](https://youtu.be/x4tjOdrtQ98) or [https://www.bilibili.com/video/av92152869](https://www.bilibili.com/video/av92152869) \
+Our Paper (IJCAI 2020 Demo Track): [10.24963/ijcai.2020/776](https://www.ijcai.org/Proceedings/2020/0776.pdf)
 
 <p align="center"><img src="README.img/demo.gif" width="300"></p>
 
@@ -65,6 +66,20 @@ python window_running.py
 [SiamDW](https://github.com/researchmm/SiamDW)
 ### Papers
 ```
+@inproceedings{ijcai2020-776,
+  title     = {SiamBOMB: A Real-time AI-based System for Home-cage Animal Tracking, Segmentation and Behavioral Analysis},
+  author    = {Chen, Xi and Zhai, Hao and Liu, Danqian and Li, Weifu and Ding, Chaoyue and Xie, Qiwei and Han, Hua},
+  booktitle = {Proceedings of the Twenty-Ninth International Joint Conference on
+               Artificial Intelligence, {IJCAI-20}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},             
+  pages     = {5300--5302},
+  year      = {2020},
+  month     = {7},
+  doi       = {10.24963/ijcai.2020/776},
+  url       = {https://doi.org/10.24963/ijcai.2020/776},
+}
+
+
 @inproceedings{SiamMask,
   title={Fast online object tracking and segmentation: A unifying approach},
   author={Wang, Qiang and Zhang, Li and Bertinetto, Luca and Hu, Weiming and Torr, Philip HS},
